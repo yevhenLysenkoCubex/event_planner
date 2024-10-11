@@ -1,0 +1,11 @@
+{
+   "singleQuote": true,
+   "jsxSingleQuote": true,
+   "printWidth": 120,
+   "tabWidth": 3,
+   "importOrder": ["^components/(.*)$", "^[./]"],
+   "importOrderSeparation": true,
+   "importOrderSortSpecifiers": true,
+   "bracketSameLine": false,
+   "trailingComma": "es5"
+}
